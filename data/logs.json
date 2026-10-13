@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "mv6yjb4nncir",
+    "timestamp": "2026-10-13T17:31:07.415Z",
+    "type": "account",
+    "action": "create_owner",
+    "username": "xatanic",
+    "role": "OWNER",
+    "by": "5126860596"
+  }
+]
