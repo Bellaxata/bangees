@@ -11,5 +11,18 @@
     "createdBy": "5126860596",
     "createdByName": "乂ᥫ᭡፝֟፝ Xatanical",
     "source": "telegram-owner"
+  },
+  {
+    "id": "f5bc7b14da42",
+    "username": "lyora",
+    "passwordHash": "$2a$10$puH8IttZ48U4NiZOnbHO2e6znVWCuDf5jwAkwV6vPGiqwZMaeKMq.",
+    "role": "ADMIN",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": null,
+    "createdAt": "2026-10-13T19:34:28.000Z",
+    "createdBy": "a3b1fe65a47b",
+    "createdByUsername": "xatanic",
+    "source": "web"
   }
 ]
