@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "a3b1fe65a47b",
+    "username": "xatanic",
+    "passwordHash": "$2a$10$.tJzMVpwh5bkI1Vrfa2MEeycAzPnuA0NlSXexSKSY3OaYK0hOMPyS",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "5126860596",
+    "expiredAt": null,
+    "createdAt": "2026-10-13T17:31:04.845Z",
+    "createdBy": "5126860596",
+    "createdByName": "乂ᥫ᭡፝֟፝ Xatanical",
+    "source": "telegram-owner"
+  }
+]
