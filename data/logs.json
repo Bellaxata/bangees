@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv72xyk4ueb0",
+    "timestamp": "2026-10-13T19:34:29.428Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "lyora",
+    "role": "ADMIN",
+    "userId": "a3b1fe65a47b"
+  },
+  {
     "id": "mv71kklray9t",
     "timestamp": "2026-10-13T18:56:05.199Z",
     "type": "auth",
