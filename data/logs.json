@@ -1,5 +1,13 @@
 [
   {
+    "id": "mv74e3b4snfu",
+    "timestamp": "2026-10-13T20:15:01.696Z",
+    "type": "auth",
+    "action": "login",
+    "username": "xatanic",
+    "userId": "a3b1fe65a47b"
+  },
+  {
     "id": "mv74e10ewwhw",
     "timestamp": "2026-10-13T20:14:58.718Z",
     "type": "error",
